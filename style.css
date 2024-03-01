@@ -26,3 +26,6 @@
             font-size: 18px;
             margin-top: 20px;
         }
+ .discord-button:hover {
+            background-color: #677bc4;
+        }
